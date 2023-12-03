@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVArch</string>
+    <string name="title_1">Buy groceries</string>
+    <string name="title_2">Complete homework</string>
+    <string name="title_3">Exercise</string>
+    <string name="title_4">Read a book</string>
+    <string name="title_5">Learn a new skill</string>
+    <string name="title_6">Plan weekend activities</string>
+    <string name="description_1">Remember to buy milk, eggs, and bread.</string>
+    <string name="description_2">Finish the assignments for math and history classes.</string>
+    <string name="description_3">Go for a run or hit the gym for a workout.</string>
+    <string name="description_4">Start reading the novel you have been meaning to read.</string>
+    <string name="description_5">Explore online courses or tutorials for a new skill.</string>
+    <string name="description_6">Make plans for the upcoming weekend with friends or family.</string>
+    <string name="todo_list">Todo List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
